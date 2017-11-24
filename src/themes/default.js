@@ -3,6 +3,7 @@
 export default {
     tree: {
         base: {
+            textAlign: 'left',
             listStyle: 'none',
             backgroundColor: '#21252B',
             margin: 0,
