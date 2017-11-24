@@ -36,7 +36,7 @@ const Header = ({node, style}) => {
     return (
         <div style={style.base}>
             <div style={style.title}>
-                {node.name}
+                {node.value}
             </div>
         </div>
     );
