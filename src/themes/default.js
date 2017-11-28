@@ -5,10 +5,10 @@ export default {
         base: {
             textAlign: 'left',
             listStyle: 'none',
-            backgroundColor: '#21252B',
+            backgroundColor: 'white',
             margin: 0,
             padding: 0,
-            color: '#9DA5AB',
+            color: 'black',
             fontFamily: 'lucida grande ,tahoma,verdana,arial,sans-serif',
             fontSize: '14px'
         },
